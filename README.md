@@ -1,6 +1,6 @@
 # OOPs-1_Assignment
 
-used List for the implementation and keep both the classes in the same file with proper packaging.
+used List for the implementation and kept both the classes in the same file with proper packaging.
 
 DoubleQueue enqueues the element after doubling them
 SquareQueue enqueues the element after squaring them
